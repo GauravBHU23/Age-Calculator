@@ -32,7 +32,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/age-calculator.git
+git clone (https://github.com/GauravBHU23/Age-Calculator.git)
 Open the folder:
 
 bash
